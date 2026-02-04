@@ -1,0 +1,12 @@
+name: scicam
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.13
+  - ipykernel
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+prefix: /Users/cam/miniconda3/envs/scicam
